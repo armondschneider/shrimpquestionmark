@@ -18,19 +18,34 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     { 
       text: "deff a shrimp 👍", 
-      image: "assets/images/shrimp/shrimp1.jpg", 
+      image: "assets/images/shrimp/shrimp2.jpg", 
       audio: "assets/images/shrimp/shrimp.mp3" 
+    },
+    { 
+      text: "Shrimp Shrimp", 
+      image: "assets/images/shrimp/shrimp3.jpg", 
+      audio: "assets/images/shrimp/shrimp.mp3" 
+    },
+    { 
+      text: "not a shrimp", 
+      image: "assets/images/notShrimp/notShrimp1.jpg", 
+      audio: "assets/images/notShrimp/notShrimp.mp3" 
     },
     { 
       text: "not a shrimp", 
       image: "assets/images/notShrimp/notShrimp2.jpg", 
       audio: "assets/images/notShrimp/notShrimp.mp3" 
     },
+    { 
+      text: "not a shrimp", 
+      image: "assets/images/notShrimp/notShrimp3.jpg", 
+      audio: "assets/images/notShrimp/notShrimp.mp3" 
+    },
   ];
 
   const noResults = [
     { 
-      text: "ok weird try again", 
+      text: "you have to be scanned", 
       image: "assets/images/tryagain.jpg", 
       audio: "assets/sounds/tryagain.mp3" 
     },
